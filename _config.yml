@@ -21,7 +21,7 @@
 title:            'Esecenografías teatrales del Siglo de Oro'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://dxvidmr.github.io'
-baseurl:          '/my-wax-site'
+baseurl:          '/escenografiastso'
 copyright:        'CC-BY-SA-NC'
 logo:             '/assets/logo.png'
 
