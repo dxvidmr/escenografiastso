@@ -1,3 +1,3 @@
-pid,label,escenógrafo,obra,autor_obra
-obj01,"Telón de boca escena para La fiera, el rayo y la piedra",Baccio del Bianco,"La fiera, el rayo y la piedra",Calderón de la Barca
-obj02,"Escena de la Loa para la comedia La fiera, el rayo y la piedra",Baccio del Bianco,"Loa para la comedia La fiera, el rayo y la piedra",Francisco Figuerola
+pid,label,escenógrafo,obra,autor_obra,order,layout,collection,thumbnail,full,manifest
+obj01,"Telón de boca escena para La fiera, el rayo y la piedra",Baccio del Bianco,"La fiera, el rayo y la piedra",Calderón de la Barca,0,escenografias_item,escenografias,"/img/derivatives/iiif/images/obj01/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj01/full/1140,/0/default.jpg",/img/derivatives/iiif/obj01/manifest.json
+obj02,"Escena de la Loa para la comedia La fiera, el rayo y la piedra",Baccio del Bianco,"Loa para la comedia La fiera, el rayo y la piedra",Francisco Figuerola,1,escenografias_item,escenografias,"/img/derivatives/iiif/images/obj02/full/250,/0/default.jpg","/img/derivatives/iiif/images/obj02/full/1140,/0/default.jpg",/img/derivatives/iiif/obj02/manifest.json

@@ -1,0 +1,21 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/escenografias.json",
+  "@type": "sc:Collection",
+  "label": "escenografias",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj01/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj01"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj02/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj02"
+    }
+  ]
+}
