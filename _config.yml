@@ -40,7 +40,7 @@ exclude:
   - spec
   - README.md
 incremental: true
-livereload: true
+livereload: false
 webrick:
   headers:
     'Access-Control-Allow-Origin': '*'
