@@ -102,13 +102,13 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: 'Acerca de'
     link: '/about/'
-  - label: 'Browse'
+  - label: 'Explora'
     link: '/collection/'
-  - label: 'Search'
+  - label: 'Busca'
     link: '/search/'
-  - label: 'Reuse'
+  - label: 'Reúsa'
     link: '/reuse/'
 
 # --------------------------------------------------------------
